@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: a628274d-5b88-41db-bf09-8545761bf004
-  app: ancient-bastion-7932
+    secure: 4d1ff9d0-59ca-4a55-8a13-b7284788f360
+  app: intense-plains-4956
   on:
-    repo: filipeguelber/node-app
+    repo: fabiolagsilva/node-app
